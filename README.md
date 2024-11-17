@@ -17,7 +17,7 @@ I'm excited to share my progress and insights as I develop my skills in these ar
 ## Connect with Me
 
 Let's connect and collaborate! Feel free to reach out to me through 
-LinkedIn www.linkedin.com/in/mandarjadhav23
+LinkedIn www.linkedin.com/in/jadhavmandarnitin
 I'm open to discussing ideas, sharing experiences, and learning together.
 If you wanna say hii here is my email mandarjadhav236@gmail.com
 
