@@ -1,6 +1,6 @@
 # Welcome to Repository!
 
-Hello there! 👋 I'm mandar, and I'm pursuing my engineering studies in Artificial Intelligence and Machine Learning (AIML). In addition to that, I'm diving into the exciting world of Python web development and Java programming.
+Hello there! 👋 I'm Mandar Jadhav, and I'm pursuing my engineering studies in Artificial Intelligence and Machine Learning (AIML). In addition to that, I'm diving into the exciting world of Python web development and Java programming.
 
 ## About Me
 
